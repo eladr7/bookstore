@@ -1,0 +1,6 @@
+[submodule "packages/api-server"]
+	path = packages/api-server
+	url = git@github.com:eladr7/bookstore-api-server.git
+[submodule "packages/client"]
+	path = packages/client
+	url = git@github.com:eladr7/bookstore-client.git
